@@ -51,7 +51,7 @@ level:
 
 .. literalinclude:: /code-snippets/logging/levels.js
    :language: javascript
-   :dedent: 4
+   
 
 Filter on a Specific Class
 --------------------------

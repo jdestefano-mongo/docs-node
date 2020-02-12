@@ -25,7 +25,7 @@ multiple languages, all you have to do is query with a search term to
 find documents that contain your term.
 
 
-.. admonition::
+.. note::
 
    You can only create *one* text index per collection, so every text
    search queries all fields used by the index for term matches.
@@ -59,7 +59,7 @@ the search terms (logical ``OR``).
    :language: javascript
    :start-after: start word text example
    :end-before: end word text example
-   :dedent: 4
+   
 
 This operation returns the following documents:
 
@@ -96,7 +96,7 @@ multi-word phrase with escaped quotes (``\"<term>\"``):
    :language: javascript
    :start-after: start phrase text example
    :end-before: end phrase text example
-   :dedent: 4
+   
 
 Querying by the phrase "star trek" instead of just the term "trek"
 matches the following documents:
@@ -136,7 +136,7 @@ includes two terms, separate the terms with spaces.
    :language: javascript
    :start-after: start negation text example
    :end-before: end negation text example
-   :dedent: 4
+   
 
 Querying with the negated term yields the following documents:
 
@@ -166,7 +166,7 @@ projection, to order the results by relevance:
    :language: javascript
    :start-after: start relevance text example
    :end-before: end relevance text example
-   :dedent: 4
+   
 
 Querying in this way returns the following documents in the following
 order. In general, text relevance increases as a string matches more

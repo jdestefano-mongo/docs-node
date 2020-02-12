@@ -73,7 +73,7 @@ the large pepperoni pizza in Steve Lobsters' order:
    :language: javascript
    :start-after: start arrayFilters example
    :end-before: end arrayFilters example
-   :dedent: 4
+   
 
 This operation produces the following modified order:
 

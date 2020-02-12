@@ -62,6 +62,13 @@ pygments_style = 'sphinx'
 
 extlinks = {
     'manual': ('https://docs.mongodb.com/manual%s', ''),
+    'node-api': ('http://mongodb.github.io/node-mongodb-native/3.5/api/%s', ''),
+    'mdn': ('https://developer.mozilla.org/en-US/docs/%s', ''),
+    'wikipedia': ('https://en.wikipedia.org/wiki/%s', ''),
+    'guides': ('https://docs.mongodb.com/guides%s', ''),
+    'atlas': ('https://docs.atlas.mongodb.com/%s', ''),
+    'node-docs': ('http://mongodb.github.io/node-mongodb-native/3.5/%s', '')
+
 }
 
 ## add `extlinks` for each published version.

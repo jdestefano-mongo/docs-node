@@ -7,7 +7,7 @@ project:
   name: 'node-driver'
   tag: 'node-driver'
   url: 'https://docs.mongodb.com/ecosystem/drivers/nodejs'
-  title: 'Node Driver Manual'
+  title: 'Node.js Driver'
   branched: true
 version:
   release: 'upcoming'
@@ -29,9 +29,9 @@ assets:
     repository: https://github.com/mongodb/node-mongodb-native.git
 paths:
   output: 'build'
-  source: 'source-master'
-  includes: 'source-master/includes'
-  images: 'source-master/images'
+  source: 'source'
+  includes: 'source/includes'
+  images: 'source/images'
   tools: 'bin'
   buildsystem: 'build/docs-tools'
   builddata: 'config'

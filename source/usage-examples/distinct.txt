@@ -35,8 +35,6 @@ If you specify a value for the document field name that is not of type
 the method does not execute and returns a ``TypeMismatch`` error with a
 message that resembles the following:
 
-.. blockquote::
-
    "key" had the wrong type. Expected string, found <non-string type>
 
 Example

@@ -66,7 +66,7 @@ use to navigate matched documents.
       :language: javascript
       :start-after: start find crud example
       :end-before: end find crud example
-      :dedent: 4
+      
 
 Aggregate
 ~~~~~~~~~
@@ -87,7 +87,7 @@ set for viewing.
       :language: javascript
       :start-after: start aggregate crud example
       :end-before: end aggregate crud example
-      :dedent: 4
+      
 
 Watch / Subscribe
 ~~~~~~~~~~~~~~~~~
@@ -107,7 +107,7 @@ sequentially run on new data whenever write operations run on the collection.
       :language: javascript
       :start-after: start watch crud example
       :end-before: end watch crud example
-      :dedent: 4
+      
 
 .. note::
 
@@ -150,7 +150,7 @@ inserted documents that lack such a field.
       :language: javascript
       :start-after: start insert crud example
       :end-before: end insert crud example
-      :dedent: 4
+      
 
 Update / Replace
 ~~~~~~~~~~~~~~~~
@@ -178,7 +178,7 @@ of an update.
       :language: javascript
       :start-after: start update crud example
       :end-before: end update crud example
-      :dedent: 4
+      
 
 Delete
 ~~~~~~
@@ -200,7 +200,7 @@ match the query.
       :language: javascript
       :start-after: start delete crud example
       :end-before: end delete crud example
-      :dedent: 4
+      
 
 .. note::
 

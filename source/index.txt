@@ -66,9 +66,9 @@ common driver methods.
 
 API
 ---
-See the :doc:`API </api-documentation/>` section if you are looking for
-technical information about classes, methods, and configuration objects
-within the MongoDB Node.js driver.
+See the `API documentation <http://mongodb.github.io/node-mongodb-native/3.5/api/>`__
+if you are looking for technical information about classes, methods, and
+configuration objects within the MongoDB Node.js driver.
 
 FAQ
 ---

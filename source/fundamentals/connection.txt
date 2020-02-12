@@ -51,7 +51,7 @@ connect to MongoDB.
 
 .. literalinclude:: /code-snippets/connection/srv.js
    :language: javascript
-   :dedent: 4
+   
 
 ------------------------
 Connect to a Replica Set
@@ -65,7 +65,7 @@ To connect to a replica set deployment, specify the host and port numbers of
 each instance, separated by a comma, and the replica set name as the value of
 the ``replicaSet`` parameter.
 
-.. code-block::
+.. code-block:: sh
 
    mongodb+srv://host1:27017,host2:27017,host3:27017/?replicaSet=myRs
 

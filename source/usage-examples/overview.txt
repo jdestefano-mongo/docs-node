@@ -55,13 +55,13 @@ Usage Examples
 
 - :doc:`Find Operations </usage-examples/find>`
 
-- :doc:`Insert Operations </usage-examples/insert>`
+- Insert Operations
 
-- :doc:`Update Operations </usage-examples/update>`
+  - :doc:`Insert Operations </usage-examples/insert-operations>`
 
-- :doc:`Replace Operations </usage-examples/replace>`
+- :doc:`Update and Replace Operations </usage-examples/update-and-replace-operations>`
 
-- :doc:`Delete Operations </usage-examples/delete>`
+- :doc:`Delete Operations </usage-examples/delete-operations>`
 
 - :doc:`Count Documents </usage-examples/count>`
 

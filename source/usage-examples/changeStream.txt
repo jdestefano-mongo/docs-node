@@ -64,4 +64,4 @@ using ``changeStream.close()``.
 .. include:: /includes/connect-guide-note.rst
 
 .. literalinclude:: /code-snippets/usage-examples/changeStream.js
-  :language: javascript :linenos:
+  :language: javascript
